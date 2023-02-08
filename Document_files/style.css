@@ -88,19 +88,12 @@ button {
 /* 2nd SECTION  */
 
 .second-section {
-  /* text-align: center; */
+  text-align: center;
   height: 400px;
   /* width: 900px; */
   background-color: aqua;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-
-.card {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+  /* display: flex; */
+  /* flex-direction: column; */
 }
 
 .second {
