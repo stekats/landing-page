@@ -25,7 +25,7 @@ h2 {
 }
 
 p {
-  margin-bottom: 30px;
+  /* margin-bottom: 30px; */
 }
 
 button {
@@ -73,6 +73,9 @@ button {
   width: 900px;
   margin-top: auto;
   margin-bottom: auto;
+}
+.home-container p {
+  margin-bottom: 30px;
 }
 
 .sub-container {
@@ -162,6 +165,8 @@ button {
 }
 .testi-container {
   font-size: 36px;
+  color: #1f2937;
+
   /* font-weight:300; */
   width: 700px;
   display: flex;
@@ -170,6 +175,9 @@ button {
 }
 
 .testi-container span {
+  /* color: #1f2937; */
   align-self: flex-end;
   font-weight: bold;
 }
+
+/* SECTION CALL-TO */
