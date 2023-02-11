@@ -89,7 +89,7 @@ button {
 .img-container {
   width: 50%;
   border-radius: 4px;
-  background-image: url("home-img.jpg");
+  background-image: url("img/home-img.jpg");
   background-size: cover;
 }
 
@@ -134,28 +134,28 @@ button {
 }
 
 .box1 {
-  background-image: url("img1.jpg");
+  background-image: url("img/img1.jpg");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
 }
 
 .box2 {
-  background-image: url("img2.jpg");
+  background-image: url("img/img2.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center calc(50% - 20px);
 }
 
 .box3 {
-  background-image: url("img3.jpg");
+  background-image: url("img/img3.jpg");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
 }
 
 .box4 {
-  background-image: url("img4.jpg");
+  background-image: url("img/img4.jpg");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
